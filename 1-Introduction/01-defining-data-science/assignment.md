@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Transcript collection approval process | Data of graduates who have collected transcripts and those who haven't. The time it takes to get a transcript after expressing interest in collecting it. | tables | Seeing colleges that retain transcripts more, Simplifying the process of Transcript collecting approval |
+| Vaccination | People failing to adopt vaccination | Vaccination rate per village and finding out why | Forms | People in certain villages find it hard to reach the vaccination spots, maybe the information hasn't reached certain groups |
+| Productivity | The time it takes to complete a certain work task | Time. Resources used etc | application logs | Replace certain aspects of that task with automation |
 
 ## Rubric
 
